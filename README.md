@@ -16,17 +16,16 @@ Este projeto é um sistema de pedido de pizzas desenvolvido em Java. Ele permite
    ```bash
    git clone https://github.com/joaoplima04/Pizza.git
 
-Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd Pizza
 
-cd Pizza
-
-## Compile e execute o projeto usando sua IDE favorita (como Eclipse ou IntelliJ IDEA) ou utilizando o terminal:
-
-1. Para compilar:
+2. Compile e execute o projeto usando sua IDE favorita (como Eclipse ou IntelliJ IDEA) ou utilizando o terminal:
+Para compilar:
    ```bash
    javac -d bin src/*.java
 
-2. Para executar:
+Para executar:
    ```bash
    java -cp bin Main
 
