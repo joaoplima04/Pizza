@@ -15,20 +15,19 @@ Este projeto é um sistema de pedido de pizzas desenvolvido em Java. Ele permite
 1. Clone o repositório para a sua máquina local:
    ```bash
    git clone https://github.com/joaoplima04/Pizza.git
+
 Navegue até o diretório do projeto:
 
 cd Pizza
 Compile e execute o projeto usando sua IDE favorita (como Eclipse ou IntelliJ IDEA) ou utilizando o terminal:
 
 # Para compilar:
-
-```bash
-javac -d bin src/*.java
+   ```bash
+   javac -d bin src/*.java
 
 # Para executar:
-
-```bash
-java -cp bin Main
+   ```bash
+   java -cp bin Main
 
 ## Uso
 
@@ -37,8 +36,10 @@ Selecione o tamanho da pizza.
 Escolha os sabores da pizza.
 Selecione os ingredientes desejados para cada metade da pizza.
 Confirme o pedido.
-Contribuição
-Se você deseja contribuir para este projeto, siga estas etapas:
+
+## Contribuição
+
+#Se você deseja contribuir para este projeto, siga estas etapas:
 
 Fork o repositório.
 Crie uma nova branch:
