@@ -21,9 +21,10 @@ Este projeto é um sistema de pedido de pizzas desenvolvido em Java. Ele permite
    cd Pizza
 
 2. Compile e execute o projeto usando sua IDE favorita (como Eclipse ou IntelliJ IDEA) ou utilizando o terminal:
+2. Compile:
    ```bash
    javac -d bin src/*.java
-
+2. Execute:
    ```bash
    java -cp bin Main
 
