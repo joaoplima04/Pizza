@@ -19,13 +19,14 @@ Este projeto é um sistema de pedido de pizzas desenvolvido em Java. Ele permite
 Navegue até o diretório do projeto:
 
 cd Pizza
-Compile e execute o projeto usando sua IDE favorita (como Eclipse ou IntelliJ IDEA) ou utilizando o terminal:
 
-# Para compilar:
+## Compile e execute o projeto usando sua IDE favorita (como Eclipse ou IntelliJ IDEA) ou utilizando o terminal:
+
+1. Para compilar:
    ```bash
    javac -d bin src/*.java
 
-# Para executar:
+2. Para executar:
    ```bash
    java -cp bin Main
 
